@@ -1,5 +1,6 @@
 # Games101_hw_show
 show Games101 homework
+ - 鉴于老师不让发源码，这里就发最终效果了
  - 作业一：MVP矩阵
  
 ![hw1](./hw1/basic.jpg)
