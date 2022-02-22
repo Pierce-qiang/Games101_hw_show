@@ -17,15 +17,15 @@ show Games101 homework
  
  ![hw4](./hw4/basic.jpg)
  
- - 作业五：光追
+ - 作业五：光追 -ppm图片
  
  ![hw5](./hw5/binary.ppm)
  
-   - 作业六：包围盒算法遍历，AABB，SAH（参考pbrt
+   - 作业六：包围盒算法遍历，AABB，SAH（参考pbrt  -ppm图片
  
  ![hw6](./hw6/binary.ppm)
  
-   - 作业七：路径追踪
+   - 作业七：路径追踪  -ppm图片
  
  ![hw7](./hw7/512-256spp.ppm)
  
