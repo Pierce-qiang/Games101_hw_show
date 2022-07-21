@@ -17,17 +17,17 @@ show Games101 homework
  
  ![hw4](./hw4/basic.jpg)
  
- - 作业五：光追 -ppm图片
+ - 作业五：光追
  
- ![hw5](./hw5/binary.ppm)
+ ![hw5](./hw5/binary.jpg)
  
-   - 作业六：包围盒算法遍历，AABB，SAH（参考pbrt  -ppm图片
+   - 作业六：包围盒算法遍历，AABB，SAH（参考pbrt 
  
- ![hw6](./hw6/binary.ppm)
+ ![hw6](./hw6/binary.jpg)
  
-   - 作业七：路径追踪  -ppm图片
+   - 作业七：路径追踪
  
- ![hw7](./hw7/512-256spp.ppm)
+ ![hw7](./hw7/512-256spp.jpg)
  
  - 作业8框架不适合windows就用taichi自己做了一个：弹簧模拟
 ![hw8](https://github.com/Pierce-qiang/taichi_learn/blob/master/games101hw8/spring_mode2.gif)
