@@ -27,7 +27,7 @@ show Games101 homework
  
    - 作业七：路径追踪
  
- ![hw7](./hw7/512-256spp.jpg)
+![hw7](./hw7/512_256spp.jpg)
  
  - 作业8框架不适合windows就用taichi自己做了一个：弹簧模拟
 ![hw8](https://github.com/Pierce-qiang/taichi_learn/blob/master/games101hw8/spring_mode2.gif)
